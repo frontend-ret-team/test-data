@@ -1,0 +1,2323 @@
+[
+    {
+        "_id": "1",
+        "productUrl": "/",
+        "images": [
+            {
+                "_id": "1",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "2",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "3",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                        },
+                    ],
+                },
+            },
+        ],
+        "labels": [
+            {
+                "_id": "1",
+                "icon" {
+                    "iconName": "hit",
+                },
+                "tooltip": {
+                    "text": "Хит продаж",
+                },
+            },
+            {
+                "_id": "2",
+                "icon" {
+                    "iconName": "sale",
+                },
+                "tooltip": {
+                    "text": "Скидка",
+                },
+            },
+            {
+                "_id": "3",
+                "icon" {
+                    "src": "https://html.ntk.company/vue-projects/plugs/card-labels/germany_small.svg",
+                    "alt": "germany",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "promotionsList": [
+                        {
+                            "_id": "1",
+                            "url": "/",
+                            "text": "Скидка 15%",
+                        },
+                        {
+                            "_id": "2",
+                            "url": "/",
+                            "text": "Скидка 40%",
+                        },
+                    ],
+                },
+            },
+        ],
+        "status": "available",
+        "rating": {
+            "average": 4.5,
+            "counter": 25,
+        },
+        "name": {
+            "type": "Варочная поверхность",
+            "model": "Graude Ardore 60 WH",
+        },
+        "price": "250 000",
+        "characteristics": {
+            "items": [
+                {
+                    "_id": "1",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "2",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+                {
+                    "_id": "3",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+            ],
+        },
+        "description":
+            "Полновстраиваемая посудомоечная машина XXL Универсальная модель для кухонь с фасадами без ручек",
+        "benefitLabels": [
+            {
+                "_id": "1",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "2",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "3",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                },
+            },
+            {
+                "_id": "4",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "5",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "6",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "7",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "8",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "9",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+        ],
+    },
+    {
+        "_id": "2",
+        "productUrl": "/",
+        "images": [
+            {
+                "_id": "1",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "2",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "3",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                        },
+                    ],
+                },
+            },
+        ],
+        "labels": [
+            {
+                "_id": "1",
+                "icon" {
+                    "iconName": "hit",
+                },
+                "tooltip": {
+                    "text": "Хит продаж",
+                },
+            },
+            {
+                "_id": "2",
+                "icon" {
+                    "iconName": "sale",
+                },
+                "tooltip": {
+                    "text": "Скидка",
+                },
+            },
+            {
+                "_id": "3",
+                "icon" {
+                    "src": "https://html.ntk.company/vue-projects/plugs/card-labels/germany_small.svg",
+                    "alt": "germany",
+                },
+                "tooltip": {
+                    "promotionsList": [
+                        {
+                            "_id": "1",
+                            "url": "/",
+                            "text": "Скидка 15%",
+                        },
+                        {
+                            "_id": "2",
+                            "url": "/",
+                            "text": "Скидка 40%",
+                        },
+                    ],
+                },
+            },
+        ],
+        "status": "unavailable",
+        "name": {
+            "type": "Варочная поверхность",
+            "model": "Graude Ardore 60 WH Graude Ardore 60 WH",
+        },
+        "price": "250 000",
+        "analogue": [
+            {
+                "_id": "1",
+            },
+            {
+                "_id": "2",
+            },
+        ],
+        "characteristics": {
+            "items": [
+                {
+                    "_id": "1",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "2",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+                {
+                    "_id": "3",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+                {
+                    "_id": "4",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "5",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+            ],
+        },
+        "benefitLabels": [
+            {
+                "_id": "1",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "2",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "3",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                },
+            },
+            {
+                "_id": "4",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "5",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "6",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+        ],
+    },
+    {
+        "_id": "3",
+        "productUrl": "/",
+        "images": [
+            {
+                "_id": "1",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "2",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "3",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                        },
+                    ],
+                },
+            },
+        ],
+        "labels": [
+            {
+                "_id": "1",
+                "icon" {
+                    "iconName": "hit",
+                },
+                "tooltip": {
+                    "text": "Хит продаж",
+                },
+            },
+            {
+                "_id": "2",
+                "icon" {
+                    "iconName": "sale",
+                },
+                "tooltip": {
+                    "text": "Скидка",
+                },
+            },
+            {
+                "_id": "3",
+                "icon" {
+                    "src": "https://html.ntk.company/vue-projects/plugs/card-labels/germany_small.svg",
+                    "alt": "germany",
+                },
+                "tooltip": {
+                    "promotionsList": [
+                        {
+                            "_id": "1",
+                            "url": "/",
+                            "text": "Скидка 15%",
+                        },
+                        {
+                            "_id": "2",
+                            "url": "/",
+                            "text": "Скидка 40%",
+                        },
+                    ],
+                },
+            },
+        ],
+        "status": "available",
+        "rating": {
+            "average": 4,
+            "counter": 10,
+        },
+        "name": {
+            "type": "Варочная поверхность",
+            "model": "Graude Ardore 60 WH",
+        },
+        "price": "250 000",
+        "characteristics": {
+            "items": [
+                {
+                    "_id": "1",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "2",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+                {
+                    "_id": "3",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+                {
+                    "_id": "4",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "5",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+            ],
+        },
+        "description":
+            "Полновстраиваемая посудомоечная машина XXL Универсальная модель для кухонь с фасадами без ручек. Посудомоечная машина XXL Универсальная модель для кухонь с фасадами без ручек.",
+        "benefitLabels": [
+            {
+                "_id": "1",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "2",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "3",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                },
+            },
+        ],
+    },
+    {
+        "_id": "4",
+        "productUrl": "/",
+        "images": [
+            {
+                "_id": "1",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "2",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "3",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                        },
+                    ],
+                },
+            },
+        ],
+        "labels": [
+            {
+                "_id": "1",
+                "icon" {
+                    "iconName": "hit",
+                },
+                "tooltip": {
+                    "text": "Хит продаж",
+                },
+            },
+            {
+                "_id": "2",
+                "icon" {
+                    "iconName": "sale",
+                },
+                "tooltip": {
+                    "text": "Скидка",
+                },
+            },
+            {
+                "_id": "3",
+                "icon" {
+                    "src": "https://html.ntk.company/vue-projects/plugs/card-labels/germany_small.svg",
+                    "alt": "germany",
+                },
+                "tooltip": {
+                    "promotionsList": [
+                        {
+                            "_id": "1",
+                            "url": "/",
+                            "text": "Скидка 15%",
+                        },
+                        {
+                            "_id": "2",
+                            "url": "/",
+                            "text": "Скидка 40%",
+                        },
+                    ],
+                },
+            },
+        ],
+        "status": "order",
+        "rating": {
+            "average": 3,
+            "counter": 2,
+        },
+        "name": {
+            "type": "Варочная поверхность",
+            "model": "Graude Ardore 60 WH",
+        },
+        "price": "350 000",
+        "discountPrice": "199 000",
+        "characteristics": {
+            "items": [
+                {
+                    "_id": "1",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "2",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+                {
+                    "_id": "3",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+                {
+                    "_id": "4",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "5",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+                {
+                    "_id": "6",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+            ],
+        },
+        "description":
+            "Полновстраиваемая посудомоечная машина XXL Универсальная модель для кухонь с фасадами без ручек.",
+        "benefitLabels": [
+            {
+                "_id": "1",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "2",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "3",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                },
+            },
+            {
+                "_id": "4",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "5",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "6",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "7",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "8",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "9",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "10",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "11",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "12",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "13",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+        ],
+    },
+    {
+        "_id": "5",
+        "productUrl": "/",
+        "images": [
+            {
+                "_id": "1",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "2",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "3",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                        },
+                    ],
+                },
+            },
+        ],
+        "labels": [
+            {
+                "_id": "1",
+                "icon" {
+                    "iconName": "hit",
+                },
+                "tooltip": {
+                    "text": "Хит продаж",
+                },
+            },
+            {
+                "_id": "2",
+                "icon" {
+                    "iconName": "sale",
+                },
+                "tooltip": {
+                    "text": "Скидка",
+                },
+            },
+            {
+                "_id": "3",
+                "icon" {
+                    "src": "https://html.ntk.company/vue-projects/plugs/card-labels/germany_small.svg",
+                    "alt": "germany",
+                },
+                "tooltip": {
+                    "promotionsList": [
+                        {
+                            "_id": "1",
+                            "url": "/",
+                            "text": "Скидка 15%",
+                        },
+                        {
+                            "_id": "2",
+                            "url": "/",
+                            "text": "Скидка 40%",
+                        },
+                    ],
+                },
+            },
+        ],
+        "status": "available",
+        "rating": {
+            "average": 4.5,
+            "counter": 25,
+        },
+        "name": {
+            "type": "Варочная поверхность",
+            "model": "Graude Ardore 60 WH",
+        },
+        "price": "250 000",
+        "discountPrice": "199 000",
+        "characteristics": {
+            "items": [
+                {
+                    "_id": "1",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "2",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+                {
+                    "_id": "3",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+                {
+                    "_id": "4",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "5",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+                {
+                    "_id": "6",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+            ],
+        },
+        "description":
+            "Полновстраиваемая посудомоечная машина XXL Универсальная модель для кухонь с фасадами без ручек.",
+        "benefitLabels": [
+            {
+                "_id": "1",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "2",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "3",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                },
+            },
+            {
+                "_id": "4",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "5",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "6",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "7",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "8",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "9",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+        ],
+    },
+    {
+        "_id": "6",
+        "productUrl": "/",
+        "images": [
+            {
+                "_id": "1",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "2",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img1.png",
+                        },
+                    ],
+                },
+            },
+            {
+                "_id": "3",
+                "picture": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                    "sources": [
+                        {
+                            "type": "image/webp",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.webp",
+                        },
+                        {
+                            "type": "image/png",
+                            "srcset": "https://html.ntk.company/vue-projects/plugs/photos-for-cards/product-card/img2.png",
+                        },
+                    ],
+                },
+            },
+        ],
+        "labels": [
+            {
+                "_id": "1",
+                "icon" {
+                    "iconName": "hit",
+                },
+                "tooltip": {
+                    "text": "Хит продаж",
+                },
+            },
+            {
+                "_id": "2",
+                "icon" {
+                    "iconName": "sale",
+                },
+                "tooltip": {
+                    "text": "Скидка",
+                },
+            },
+            {
+                "_id": "3",
+                "icon" {
+                    "src": "https://html.ntk.company/vue-projects/plugs/card-labels/germany_small.svg",
+                    "alt": "germany",
+                },
+                "tooltip": {
+                    "promotionsList": [
+                        {
+                            "_id": "1",
+                            "url": "/",
+                            "text": "Скидка 15%",
+                        },
+                        {
+                            "_id": "2",
+                            "url": "/",
+                            "text": "Скидка 40%",
+                        },
+                    ],
+                },
+            },
+        ],
+        "status": "out",
+        "rating": {
+            "average": 4.5,
+            "counter": 25,
+        },
+        "name": {
+            "type": "Варочная поверхность",
+            "model": "Graude Ardore 60 WH",
+        },
+        "price": "250 000",
+        "characteristics": {
+            "items": [
+                {
+                    "_id": "1",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "2",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+                {
+                    "_id": "3",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+                {
+                    "_id": "4",
+                    "name": "Тип загрузки:",
+                    "value": "фронтальная",
+                },
+                {
+                    "_id": "5",
+                    "name": "Габариты (В х Ш х Г), см:",
+                    "value": "85 х 59.6 х 63.6",
+                },
+                {
+                    "_id": "6",
+                    "name": "Макс. загрузка при стирке, кг:",
+                    "value": "9",
+                },
+            ],
+        },
+        "description":
+            "Полновстраиваемая посудомоечная машина XXL Универсальная модель для кухонь с фасадами без ручек.",
+        "benefitLabels": [
+            {
+                "_id": "1",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "2",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "3",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                },
+            },
+            {
+                "_id": "4",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "5",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "6",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "7",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "8",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+            {
+                "_id": "9",
+                "image": {
+                    "src": "https://html.ntk.company/vue-projects/plugs/benefit-labels/benefits-label.svg",
+                    "alt": "cooling",
+                    "loading": "lazy",
+                },
+                "tooltip": {
+                    "picture": {
+                        "sourses": [
+                            {
+                                "_id": 1,
+                                "type": "image/webp",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.webp",
+                            },
+                            {
+                                "_id": 2,
+                                "type": "image/png",
+                                "srcset": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                            },
+                        ],
+                        "src": "https://html.ntk.company/vue-projects/plugs/dropdown-menu/categories/icons/images/all.png",
+                    },
+                    "title": "Генератор льда IceMaker*",
+                    "text": "Быстрое образование и хранение льда: генератор льда IceMaker имеет независимую систему управления и может производить около 100 кубиков льда в сутки.",
+                    "link": {
+                        "url": "/",
+                        "title": "Перейти в глоссарий",
+                    },
+                },
+            },
+        ],
+    },
+]
